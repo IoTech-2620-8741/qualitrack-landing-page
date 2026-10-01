@@ -80,6 +80,7 @@ ClosedSource-LandingPage/
 | Huapaya Galindo, Dyron | U202322855 | Software Engineer |
 | Lopez Roman, Franco Mauricio | U202315890 | Software Engineer |
 | Montes Ramos, Henry Jaredt | U20231D343 | Software Engineer |
+| Quiroz Cáceres, Adrian | U202214864 | Software Engineer |
 | Ruiz Madrid, Billy Jake | U202116401 | Software Engineer |
 | Torres Apolinario, Giovany Smith | U202311601 | Software Engineer |
 
