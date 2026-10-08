@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**QualiTrack** is a SaaS platform developed by **ClosedSource** to **digitize and automate pharmaceutical manufacturing quality control**.
+**QualiTrack** is a SaaS platform developed by **IoTech** to **digitize and automate pharmaceutical manufacturing quality control**.
 
 Our solution integrates **IoT telemetry** from industrial equipment (autoclaves, pH meters, pressure sensors) with an automated **BPM compliance engine**, generating **immutable audit trails** and **PDF reports** ready for DIGEMID regulatory inspections — all in real time.
 
@@ -50,7 +50,7 @@ This Landing Page was built with standard web technologies, prioritizing perform
 ## Project Structure
 
 ```
-ClosedSource-LandingPage/
+IoTech-LandingPage/
 ├── index.html                         # Main landing page
 ├── README.md
 └── public/
@@ -82,7 +82,7 @@ First stable release of the QualiTrack Landing Page.
 
 ---
 
-## Team — ClosedSource
+## Team — IoTech
 
 | Name | Code | Role |
 |---|---|---|
