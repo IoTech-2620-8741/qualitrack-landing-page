@@ -173,7 +173,7 @@ const translationsES = {
             "phone": "+51 (1) 234-5678",
             "location": "Lima, Perú"
         },
-        "copyright": "Copyright © 2026 ClosedSource",
+        "copyright": "Copyright © 2026 IoTech",
         "legal": {
             "terms": "Términos de Servicio",
             "privacy": "Política de Privacidad"
