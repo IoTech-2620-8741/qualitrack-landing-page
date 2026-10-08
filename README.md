@@ -70,6 +70,18 @@ ClosedSource-LandingPage/
 
 ---
 
+## Version 1.0.0
+
+First stable release of the QualiTrack Landing Page.
+
+- Responsive landing page with hero, key features, subscription plans, and team sections.
+- Full English (EN) and Spanish (ES) internationalization with a floating language switcher.
+- Plan pricing with monthly/annual billing toggle (15% annual discount).
+- Interactive accordion, scroll-reveal animations, and sticky header.
+- Terms of Service and Privacy Policy (Ley N° 29733) pages.
+
+---
+
 ## Team — ClosedSource
 
 | Name | Code | Role |
